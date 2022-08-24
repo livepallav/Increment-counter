@@ -1,0 +1,16 @@
+/* .mug{
+    width: 500px;
+} */
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    display: flex;
+}
+.countercontainer{
+    padding: 20px 50px;
+}
+.container{
+    padding: 20px 0;
+}
